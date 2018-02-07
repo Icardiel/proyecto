@@ -1,0 +1,12 @@
+C:\Users\spawn\OneDrive\Escritorio\P TI\PowerLife\PowerLife\ModeloBiblioteca\bin\Debug\ModeloBiblioteca.dll
+C:\Users\spawn\OneDrive\Escritorio\P TI\PowerLife\PowerLife\ModeloBiblioteca\bin\Debug\ModeloBiblioteca.pdb
+C:\Users\spawn\OneDrive\Escritorio\P TI\PowerLife\PowerLife\ModeloBiblioteca\obj\Debug\ModeloBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\spawn\OneDrive\Escritorio\P TI\PowerLife\PowerLife\ModeloBiblioteca\obj\Debug\ModeloBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\spawn\OneDrive\Escritorio\P TI\PowerLife\PowerLife\ModeloBiblioteca\obj\Debug\ModeloBiblioteca.dll
+C:\Users\spawn\OneDrive\Escritorio\P TI\PowerLife\PowerLife\ModeloBiblioteca\obj\Debug\ModeloBiblioteca.pdb
+C:\Users\ocllucio\Desktop\Proyecto PowerLife\Solution asp .net\PowerLife\ModeloBiblioteca\bin\Debug\ModeloBiblioteca.dll
+C:\Users\ocllucio\Desktop\Proyecto PowerLife\Solution asp .net\PowerLife\ModeloBiblioteca\bin\Debug\ModeloBiblioteca.pdb
+C:\Users\ocllucio\Desktop\Proyecto PowerLife\Solution asp .net\PowerLife\ModeloBiblioteca\obj\Debug\ModeloBiblioteca.csprojResolveAssemblyReference.cache
+C:\Users\ocllucio\Desktop\Proyecto PowerLife\Solution asp .net\PowerLife\ModeloBiblioteca\obj\Debug\ModeloBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\ocllucio\Desktop\Proyecto PowerLife\Solution asp .net\PowerLife\ModeloBiblioteca\obj\Debug\ModeloBiblioteca.dll
+C:\Users\ocllucio\Desktop\Proyecto PowerLife\Solution asp .net\PowerLife\ModeloBiblioteca\obj\Debug\ModeloBiblioteca.pdb

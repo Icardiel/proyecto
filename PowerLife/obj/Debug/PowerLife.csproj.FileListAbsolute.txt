@@ -1,0 +1,22 @@
+C:\Users\spawn\OneDrive\Escritorio\P TI\PowerLife\PowerLife\PowerLife\bin\PowerLife.dll.config
+C:\Users\spawn\OneDrive\Escritorio\P TI\PowerLife\PowerLife\PowerLife\bin\PowerLife.dll
+C:\Users\spawn\OneDrive\Escritorio\P TI\PowerLife\PowerLife\PowerLife\bin\PowerLife.pdb
+C:\Users\spawn\OneDrive\Escritorio\P TI\PowerLife\PowerLife\PowerLife\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\spawn\OneDrive\Escritorio\P TI\PowerLife\PowerLife\PowerLife\bin\ModeloBiblioteca.dll
+C:\Users\spawn\OneDrive\Escritorio\P TI\PowerLife\PowerLife\PowerLife\bin\ModeloBiblioteca.pdb
+C:\Users\spawn\OneDrive\Escritorio\P TI\PowerLife\PowerLife\PowerLife\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\spawn\OneDrive\Escritorio\P TI\PowerLife\PowerLife\PowerLife\obj\Debug\PowerLife.csprojResolveAssemblyReference.cache
+C:\Users\spawn\OneDrive\Escritorio\P TI\PowerLife\PowerLife\PowerLife\obj\Debug\PowerLife.csproj.CoreCompileInputs.cache
+C:\Users\spawn\OneDrive\Escritorio\P TI\PowerLife\PowerLife\PowerLife\obj\Debug\PowerLife.dll
+C:\Users\spawn\OneDrive\Escritorio\P TI\PowerLife\PowerLife\PowerLife\obj\Debug\PowerLife.pdb
+C:\Users\ocllucio\Desktop\Proyecto PowerLife\Solution asp .net\PowerLife\PowerLife\bin\PowerLife.dll.config
+C:\Users\ocllucio\Desktop\Proyecto PowerLife\Solution asp .net\PowerLife\PowerLife\bin\PowerLife.dll
+C:\Users\ocllucio\Desktop\Proyecto PowerLife\Solution asp .net\PowerLife\PowerLife\bin\PowerLife.pdb
+C:\Users\ocllucio\Desktop\Proyecto PowerLife\Solution asp .net\PowerLife\PowerLife\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ocllucio\Desktop\Proyecto PowerLife\Solution asp .net\PowerLife\PowerLife\bin\ModeloBiblioteca.dll
+C:\Users\ocllucio\Desktop\Proyecto PowerLife\Solution asp .net\PowerLife\PowerLife\bin\ModeloBiblioteca.pdb
+C:\Users\ocllucio\Desktop\Proyecto PowerLife\Solution asp .net\PowerLife\PowerLife\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ocllucio\Desktop\Proyecto PowerLife\Solution asp .net\PowerLife\PowerLife\obj\Debug\PowerLife.csprojResolveAssemblyReference.cache
+C:\Users\ocllucio\Desktop\Proyecto PowerLife\Solution asp .net\PowerLife\PowerLife\obj\Debug\PowerLife.csproj.CoreCompileInputs.cache
+C:\Users\ocllucio\Desktop\Proyecto PowerLife\Solution asp .net\PowerLife\PowerLife\obj\Debug\PowerLife.dll
+C:\Users\ocllucio\Desktop\Proyecto PowerLife\Solution asp .net\PowerLife\PowerLife\obj\Debug\PowerLife.pdb

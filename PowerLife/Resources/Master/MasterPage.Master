@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="PowerLife.Resources.Master.MasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" />
+</head>
+<body>
+    <form runat="server">
+        <header>
+            <nav class="navbar navbar-inverse">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand active" href="../Pages/Inicio.aspx">Powerlife</a>
+                        <a class="navbar-brand"><img src="../Images/PLlogo01.jpg" /></a><!--Acomodar la imagen, no se ve-->
+                    </div>
+                    <div class="collapse navbar-collapse" id="myNavbar">
+                        <ul class="nav navbar-nav">
+                            <li class="active"><a href="../Pages/Inicio.aspx">Inicio</a></li>
+                            <li><a href="../Pages/RegistroParticipantes.aspx">Registro de participantes</a></li>
+
+                            <li><a href="../Pages/Calendario.aspx" role="menu">Calendario</a>
+                                <ul>
+                                    <li>Cursos</li>
+                                    <li>Altas</li>
+                                    <li>Bajas</li>
+                                    <li>Modificar</li>
+                                </ul>
+                            </li>
+
+                            <li><a href="../Pages/Coaches.aspx">Coaches</a></li>
+                            <li><a href="../Pages/Pagos.aspx">Pagos</a></li>
+                            <li><a href="../Pages/Descargas.aspx">Descargas</a></li>
+                            <li><a href="#">Periodos Trilogias</a></li>
+                        </ul>
+                        <ul class="nav navbar-nav navbar-right">
+                            <li><a href="../Login.aspx"><span class="glyphicon glyphicon-user"></span>Cerrar Sesión</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </header>
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    </form>
+<!--https://youtu.be/3Z2JthCwhSU-->
+</body>
+</html>
+
